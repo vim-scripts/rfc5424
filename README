@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3678
+
+This file adds syntax highlighting for RFC5424 syslog files.
+
+You can follow development on http://code.google.com/p/vim-syntax-rfc5424/
